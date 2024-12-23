@@ -7,7 +7,8 @@
 This project involves performing Exploratory Data Analysis (EDA) on the Zomato dataset. The analysis includes data cleaning, processing, and visualization to uncover insights about the data. The dataset contains information about restaurants, including ratings, location, cuisine, and more.
 
 ## Objectives
-  To Solve and Answer some Business problems to get the Best insights out of the data and make some business decisions
+"To address and resolve business challenges, derive valuable insights from data, and make informed business decisions."
+  
 - **Data Cleaning**: Address missing values, outliers, and inconsistencies in the dataset.
 - **Data Processing**: Transform and preprocess data for analysis.
 - **Data Visualization**: Create visualizations to identify patterns and insights.
