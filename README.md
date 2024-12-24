@@ -8,6 +8,7 @@ This project involves performing Exploratory Data Analysis (EDA) on the Zomato d
 
 ## Objectives
 "To address and resolve business challenges, derive valuable insights from data, and make informed business decisions."
+Conclusion like - Which mode receives Max Rating (Online or offline)
   
 - **Data Cleaning**: Address missing values, outliers, and inconsistencies in the dataset.
 - **Data Processing**: Transform and preprocess data for analysis.
